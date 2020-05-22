@@ -1,0 +1,23 @@
+{
+  "name": "site",
+  "version": "0.1.0",
+  "description": "Sareh Heidari's personal site",
+  "main": "public/index.html",
+  "scripts": {
+    "test": "",
+    "build": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sareh/site.git"
+  },
+  "keywords": [
+    "sareh"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sareh/site/issues"
+  },
+  "homepage": "https://github.com/sareh/site#readme"
+}
